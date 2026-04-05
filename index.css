@@ -1,0 +1,30 @@
+  body {
+	background-image: url(images_page/bg.png);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-color: #333333;
+}
+  
+  A:link {
+	color:#FFFFFF;
+	text-decoration: none;
+} 
+  A:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+  A:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.index_text {
+	font-size: 16px;
+	line-height: 150%;
+	color: #FFFFFF;
+}
+.index_text_link {
+	font-size: 16px;
+	line-height: 150%;
+	color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+}

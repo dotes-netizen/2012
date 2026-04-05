@@ -1,0 +1,56 @@
+  body {
+	background-image: url(images_page/bg.png);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	background-color: #333333;
+	font-family: "Times New Roman", Times, serif;
+}
+  
+  A:link {
+	color:#FF6600;
+	text-decoration: none;
+} 
+  A:hover {
+	text-decoration: underline;
+	color: #FF6600;
+}
+  A:visited {
+	color: #FF6600;
+	text-decoration: none;
+}
+
+.content {
+	font-size: 16px;
+	line-height: 150%;
+}
+.content_title {
+	font-size: 18px;
+	line-height: 150%;
+	font-weight: bold;
+}
+.title1 {
+	font-size: 28px;
+	color: #0099CC;
+	font-weight: bold;
+}
+.title2 {
+	font-size: 19px;
+	color: #FF6600;
+	font-weight: bold;
+	border: 1px solid #FF6600;
+}
+.title2_link {
+	font-size: 18px;
+	color: #FF6600;
+	font-weight: bold;
+}
+.text_picture {
+	font-size: 15px;
+	line-height: 20px;
+}
+.content_title_en {
+	font-size: 18px;
+	line-height: 150%;
+	font-weight: bold;
+	color: #0099CC;
+}
